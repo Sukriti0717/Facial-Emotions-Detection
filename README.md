@@ -1,6 +1,6 @@
 # CodeClauseInternship_Facial-Emotions-Detection
 # About the Project
-It is a facial emotions detection built using using Convolutional Neural Network(CNN). A tensorflow/keras implementation of a facial emotion recognition model based on a convolutional neural network architecture and trained on the FER2013 dataset with FERPlus labels.
+A tensorflow/keras implementation of a facial emotion recognition model based on a convolutional neural network architecture and trained on the FER2013 dataset with FERPlus labels.
 # Built With
 - Keras
 - Tensorflow
